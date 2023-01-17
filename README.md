@@ -4,6 +4,10 @@ telegram: https://t.me/IonicSupport
 
 whatsapp:+1 315 629 9582
 
+get here: <a href="https://codecanyon.net/item/whatsapp-fast-group-extract-pro-101/41997926" target="_blank">
+        Whatsapp Fast Group Extract Pro
+     </a>
+
 <h2><strong>Why do you Need Whatsapp Fast Group Extract Pro 2.0.1?</strong></h2>
 <p>✅<strong>Welcome to Whatsapp Fast Group Extract Pro</strong> This revolutionary tool is designed to help you easily extract members from any Whatsapp group.
  With this software, you can quickly extract group members and build your own contact list of potential customers in just a few simple steps!</p>
